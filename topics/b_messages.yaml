@@ -1,7 +1,7 @@
 apiVersion: kafka.strimzi.io/v1beta2
 kind: KafkaTopic
 metadata:
-  name: b_messages
+  name: bmessages
   labels:
     strimzi.io/cluster: kafka-test
 spec:
